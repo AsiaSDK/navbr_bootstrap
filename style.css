@@ -1,0 +1,27 @@
+.navbar{
+    background-color: #AC7088;
+}
+.vl {
+    border-left: 2px solid #DEB6AB;
+    height: 60px;
+  }
+  .search{
+    color: #DEB6AB;
+    background-color: #AC7088;
+    border: 1px ;
+  }
+
+  .search:hover{
+    color: white;
+    border: 1px solid #DEB6AB;
+  }
+
+
+  
+ .navbar .navbar-toggler[aria-expanded="true"]{
+
+    display: none;
+    
+  }
+
+ 
